@@ -1,0 +1,5 @@
+{
+  "name": "Neon Snake Pro",
+  "description": "A high-performance, neon-styled classic Snake game with increasing difficulty and smooth canvas rendering.",
+  "requestFramePermissions": []
+}
